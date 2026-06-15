@@ -1,1 +1,0 @@
-# ICT_105_TechTitans_MVP
