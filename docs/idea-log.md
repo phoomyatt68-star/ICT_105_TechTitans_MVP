@@ -74,6 +74,6 @@ HTML/CSS/JavaScript, database, image upload feature, GPS/location services, stat
 
 ### Why This is Suitable
 Explain why this project can be developed as an IT prototype during the semester.
-The system is practical, easy to prototype, and combines web development, database design, and user interaction features to improve public safety and community engagement.
+The system is practical, easy to prototype, and combines web development, database design, and user interaction features to improve public safety and community engagement. 
 
 ---
