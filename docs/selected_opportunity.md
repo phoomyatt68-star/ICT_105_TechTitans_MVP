@@ -37,15 +37,9 @@ Key features include:
 
 ## Why This Opportunity Was Selected
 
-### NUF Scoring
+### NUF Scoring Explaination 
 
-| Criteria    | Score (1-10) | Justification                                                                                    |
-| ----------- | ------------ | ------------------------------------------------------------------------------------------------ |
-| Need        | 9            | Attendance management is a common challenge faced by lecturers.                                  |
-| Uniqueness  | 7            | QR attendance systems exist, but a university-focused solution can be customized to local needs. |
-| Feasibility | 9            | The system can be developed using standard web technologies within one semester.                 |
-
-**Total Score: 25/30**
+The Attendance Check System was selected based on the NUF (New, Useful, Feasible) scoring process. Among the evaluated ideas, the QR Code Attendance System achieved the highest score of 26/30. The idea is useful because it simplifies attendance tracking for students and lecturers, reduces manual errors, and saves time. It is considered new compared to traditional paper-based attendance methods and is feasible to develop using available web technologies, QR code libraries, and the team's current technical skills. Therefore, the team selected this opportunity as the most practical and impactful project for the semester. 
 
 ### Team Feasibility
 
